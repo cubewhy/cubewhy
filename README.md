@@ -1,21 +1,8 @@
-Java & Python dev
+Minecraft Projects are available here -> [CubeWhyMC](https://github.com/CubeWhyMC)
 
-### Projects
+I'm friend with [xiaotang27](https://github.com/xiaotang27) and [muskf](https://github.com/muskf)
 
-Minecraft Projects moved -> [CubeWhyMC](https://github.com/CubeWhyMC)
+## How to reach me
 
-### ZzxBot
-
-QQBot, free & open souce group manager & data query bot, include blacklist, Minecraft API(mc profile, optifineCape), bilibili API and more
-
-Repository: [ZzxBot](https://github.com/cubewhy/ZzxBot)
-
-### QQLite
-
-Open source QQClient, go-cqhttp is the backend
-
-Repository: [QQLite](https://github.com/cubewhy/QQLite)
-
-### My friends
-
-[Xiaotang27](https://github.com/xiaotang27)
+- Discord: [discord.lunarclient.top](https://discord.lunarclient.top)
+- E-mail: me@lunarclient.top
