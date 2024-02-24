@@ -1,8 +1,11 @@
-Minecraft Projects are available here -> [CubeWhyMC](https://github.com/CubeWhyMC)
+# Hi there 👋
 
-I'm friend with [xiaotang27](https://github.com/xiaotang27) and [muskf](https://github.com/muskf)
+Minecraft Projects are available here -> [CubeWhyMC](https://github.com/CubeWhyMC) 🎮
 
-## How to reach me
+I'm friend with [xiaotang27](https://github.com/xiaotang27) and [muskf](https://github.com/muskf) 🤔
 
-- Discord: [discord.lunarclient.top](https://discord.lunarclient.top)
-- E-mail: me@lunarclient.top
+## How to reach me 📞
+
+- Discord  🌐: [discord.lunarclient.top](https://discord.lunarclient.top)
+- Telegram 🌐: [t.me/cubewhy](https://t.me/cubewhy)
+- E-mail   📬: me@lunarclient.top
