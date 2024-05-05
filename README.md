@@ -7,5 +7,4 @@ I'm friend with [xiaotang27](https://github.com/xiaotang27) and [muskf](https://
 ## How to reach me 📞
 
 - Discord  🌐: [discord.lunarclient.top](https://discord.lunarclient.top)
-- Telegram 🌐: [t.me/cubewhy](https://t.me/cubewhy)
 - E-mail   📬: me@lunarclient.top
