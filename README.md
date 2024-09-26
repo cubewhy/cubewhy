@@ -7,3 +7,7 @@ I'm friend with [xiaotang27](https://github.com/xiaotang27) and [muskf](https://
 ## How to reach me 📞
 
 - E-mail   📬: me@lunarclient.top
+- Telegram ✈️: https://t.me/nkwjg
+- Discord Group: https://discord.lunarclient.top
+
+I have no QQ or WeChat contacts.
