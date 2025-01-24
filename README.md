@@ -11,9 +11,4 @@ The pronunciation of "cubewhy" is similar to "qby", which does not have any spec
 ## How to reach me 📞
 
 - GitHub 🐱
-- E-mail 📬: cubewhy@lunarclient.top (no reply)
 - Discord Server: https://discord.lunarclient.top
-
-I have no QQ or WeChat contacts.
-
-Due security reasons, My email and telephone number cannot be public.
