@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Minecraft Projects are available here -> [CubeWhyMC](https://github.com/CubeWhyMC) 🎮
-
 ![analysis](https://github-readme-stats.vercel.app/api?username=cubewhy)
 
 ## What does "cubewhy" mean 🤔
