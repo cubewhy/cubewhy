@@ -10,5 +10,3 @@ The pronunciation of "cubewhy" is similar to "qby", which does not have any spec
 
 - GitHub 🐱
 - Discord Server: https://discord.lunarclient.top
-- Matrix: `@cubewhy:matrix.org`
-- Signal `cubewhy.01`
