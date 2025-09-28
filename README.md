@@ -9,6 +9,5 @@ The pronunciation of "cubewhy" is similar to "qby", which does not have any spec
 ## How to reach me 📞
 
 - GitHub 🐱
-- Discord Server: https://discord.lunarclient.top
 
 FOSS & ♥️
