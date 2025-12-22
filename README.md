@@ -6,8 +6,21 @@
 
 The pronunciation of "cubewhy" is similar to "qby", which does not have any special meaning.
 
-## How to reach me 📞
+## My Tech Stacks
 
-- GitHub 🐱
+I'm a GNU/Linux 🐧 user.
+
+I know the following tech stacks.
+
+![Tech Stack](https://skillicons.dev/icons?i=git,linux,arch,nix,neovim,rust,actix,java,kotlin,spring,react,nextjs,tailwind,typescript,javascript,python,docker,k8s&perline=6)
+
+
+## Contact Me
+
+- GitHub
+- `qby140326[@]gmail.com`
+- aHR0cHM6Ly90Lm1lL2N1YmV3aHk=
+
+Nya~
 
 FOSS & ♥️
