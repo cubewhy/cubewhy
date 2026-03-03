@@ -12,12 +12,14 @@ I know the following tech stacks.
 
 ![Tech Stack](https://skillicons.dev/icons?i=git,linux,arch,nix,neovim,rust,actix,java,kotlin,spring,react,nextjs,tailwind,typescript,javascript,python,docker,k8s&perline=6)
 
+I'm a Linux contributer - [ACP6x RPL DMIC patch at LKML](https://lore.kernel.org/lkml/20260213055904.110256-1-qby140326@gmail.com/)
 
 ## Contact Me
 
 - GitHub
 - `qby140326[@]gmail.com`
-- aHR0cHM6Ly90Lm1lL2N1YmV3aHk=
+- Random link: `aHR0cHM6Ly90Lm1lL2N1YmV3aHk=`
+- Another random link: `aHR0cHM6Ly90Lm1lLys1MHhkcmw2czlvNDBOekEx`
 
 Nya~
 
