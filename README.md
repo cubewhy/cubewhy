@@ -16,6 +16,8 @@ I'm a Linux contributer - [ACP6x RPL DMIC patch at LKML](https://lore.kernel.org
 
 ## Contact Me
 
+> 我想抱可爱的猫娘 不是身体上的触摸 而是灵魂的碰撞
+
 - GitHub
 - `qby140326[@]gmail.com`
 - Random link: `aHR0cHM6Ly90Lm1lL2N1YmV3aHk=`
