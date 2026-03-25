@@ -20,8 +20,8 @@ I'm a Linux contributer - [ACP6x RPL DMIC patch at LKML](https://lore.kernel.org
 
 - GitHub
 - `qby140326[@]gmail.com`
-- Random link: `aHR0cHM6Ly90Lm1lL2N1YmV3aHk=`
-- Another random link: `aHR0cHM6Ly90Lm1lLys1MHhkcmw2czlvNDBOekEx`
+- `https://t.me[/]cubewhy`
+- Random link: `https://t.me[/]+50xdrl6s9o40NzA1`
 
 Nya~
 
