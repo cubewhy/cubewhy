@@ -12,7 +12,7 @@ I know the following tech stacks.
 
 ![Tech Stack](https://skillicons.dev/icons?i=git,linux,arch,nix,neovim,rust,actix,java,kotlin,spring,react,nextjs,tailwind,typescript,javascript,python,docker,k8s&perline=6)
 
-I'm a Linux contributer. Feel free to search my email in the kernel source tree :)
+I'm a Linux contributor. Feel free to search my email in the kernel source tree :)
 
 ## Contact Me
 
