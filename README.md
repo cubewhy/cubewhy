@@ -17,7 +17,7 @@ I'm a Linux contributor. Feel free to search my email in the kernel source tree 
 - GitHub
 - `qby140326[@]gmail.com`
 - `https://t.me[/]cubewhy`
-- Random link: https://ot.lunarclient.top
+- Random link: https://cubewhy.dev/ot
 
 Nya~
 
