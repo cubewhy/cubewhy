@@ -6,7 +6,7 @@ The pronunciation of "cubewhy" is similar to "qby", which does not have any spec
 
 ## My Tech Stacks
 
-I'm a GNU/Linux 🐧 user.
+I'm a GNU/Linux 🐐/🐧 user.
 
 I'm a Linux contributor. Feel free to search my email in the kernel source tree :)
 
